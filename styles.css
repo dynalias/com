@@ -112,7 +112,7 @@
   color: #fff8e6;
   margin-right: 60px;
   margin-top: 30px;
-  width: 22%;
+  width:90%;
   border-radius: 15px;
   font-family: montserrat;
   font-size: 30px;
@@ -131,6 +131,6 @@
 .info:hover {
   border-radius: 15px;
   background-color: rgb(122, 86, 61);;
-  width: 24%;
-  transition: 0.15s;
+  width: 100%;
+  transition: 0.1s;
 }
